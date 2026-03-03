@@ -1,5 +1,7 @@
 # DREAM Target 2035 Drug Discovery Challenge (Bioryzm)
 
+This repository contains the code for Graph Attention Network (GAT) used in the challenge
+
 9th place in 1st round
 13th place in 2nd round
 
