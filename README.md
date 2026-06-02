@@ -10,7 +10,7 @@ Team member: $\text{Luka Lisica}^{1,2}, \text{Dejan Lisica}^{3}, \text{Pratyusha
 3. Faculty of Technical Sciences, University of Novi Sad
 4. St. Xavier's College, Mumbai
 5. University of Port Harcourt
-6. National Canter center Graduate School of Cancer Science and Poilcy
+6. National Cancer Center Graduate School of Cancer Science and Policy
 
 DREAM-SGC Target 2035 Challenge: https://www.synapse.org/#!Synapse:syn65660836
 
